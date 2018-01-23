@@ -1,0 +1,6 @@
+tensorflow
+     https://www.tensorflow.org/tutorials/ 
+CNN
+     https://www.tensorflow.org/tutorials/deep_cnn
+     https://www.tensorflow.org/tutorials/layers
+
